@@ -1,5 +1,5 @@
 /*
-Generic parametric 3D-printale rectangular project box
+Generic parametric 3D-printable rectangular project box
 Jenny List 2023
 CC-BY-SA 4.0
 
