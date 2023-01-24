@@ -30,8 +30,9 @@ toleranceGap is the size of any gap between lid and box, tolerance to ensure the
 
 The following code creates a project box and lid 100x70x30mm, with a 3mm corner radius, a 1mm wall thickness, and a 1.25mm screw thread radius
 
- projectBox(100,70,30,3,1,1.25);
- translate([0,80,0]) projectBoxLid(100,70,30,3,1,1.25);
+ **projectBox(100,70,30,3,1,1.25);**
+ 
+ **translate([0,80,0]) projectBoxLid(100,70,30,3,1,1.25);**
  
  It produces the render in the image below.
  
