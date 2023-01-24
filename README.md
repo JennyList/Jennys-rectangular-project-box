@@ -40,4 +40,4 @@ The following code creates a project box and lid 100x70x30mm, with a 3mm corner 
 
 ## Licence
 
-THis library is licensed under the [Creative Commons Attribution Share Alike 4.0 International licence](license.md).
+This library is licensed under the [Creative Commons Attribution Share Alike 4.0 International licence](license.md).
