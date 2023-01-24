@@ -1,3 +1,18 @@
+/*
+Generic parametric 3D-printale rectangular project box
+Jenny List 2023
+CC-BY-SA 4.0
+
+projectBox() is the box itself
+projectBox(x,y,z,cornerRadius=3,wallThickness=1,threadRadius=1.25)
+x,y,and z are the three outer dimensions of the box
+
+projectBoxLid() generates the corresponding box lid, upside down for printing
+projectBoxLid(x,y,z,cornerRadius=3,wallThickness=1,threadRadius=1.25,toleranceGap=0.1)
+
+Support over the bed will give nicer screw holes on the lid.
+
+*/
 
 
 //Module for generic solid box with rounded corners
