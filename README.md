@@ -37,3 +37,7 @@ The following code creates a project box and lid 100x70x30mm, with a 3mm corner 
  It produces the render in the image below.
  
 ![OpenSCAD render of a project box](jennys-rectangular-project-box.png)
+
+## Licence
+
+THis library is licensed under the [Creative Commons Attribution Share Alike 4.0 International licence](license.md).
