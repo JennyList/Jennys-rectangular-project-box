@@ -26,7 +26,7 @@ wallThickness is the thickness of the box wall.
 threadRadius is the size of the hole for a self-tapper screw to enage with.
 toleranceGap is the size of any gap between lid and box, tolerance to ensure they fit.
 
-## Example.
+## Example
 
 The following code creates a project box and lid 100x70x30mm, with a 3mm corner radius, a 1mm wall thickness, and a 1.25mm screw thread radius
 
