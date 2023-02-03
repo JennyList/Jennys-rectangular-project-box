@@ -1,6 +1,8 @@
 # Jennys-rectangular-project-box
 An OpenSCAD library for creating custom 3D-printable parametric project boxes.
 
+Disalcimer: this is an early version, there may still be bugs.
+
 ## Usage
 
 All dimensions are in mm.
